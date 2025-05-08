@@ -24,7 +24,7 @@ Visualized the geographic distribution of reviewer nationalities.
 ### 2. Summary Sheet  
 Created KPI tiles summarizing average ratings and total reviews.
 
-![Summary](images/summary.png)
+![Summary](https://github.com/Akwardhan/Tableau-British-Airways-Review/blob/main/Tableau-British-Airways-Review/Screenshots/2_Summary.png)
 
 ### 3. Monthly Trend Analysis  
 Analyzed satisfaction trends over time using monthly review data.

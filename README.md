@@ -19,7 +19,7 @@ The dataset includes review details such as overall rating, travel class, review
 ### 1. Map Visualization  
 Mapped reviewer nationalities to explore global feedback.
 
-![Map View](images/map-view.png)
+![Map View](https://github.com/Akwardhan/Tableau-British-Airways-Review/blob/main/Tableau-British-Airways-Review/Screenshots/1_Map.png)
 
 ### 2. Summary Sheet  
 Built a high-level summary with key KPIs and average ratings.
@@ -27,17 +27,19 @@ Built a high-level summary with key KPIs and average ratings.
 ![Summary](images/summary.png)
 
 ### 3. Trend Analysis  
-Visualized trends by month and aircraft type.
+Visualized trends by month.
 
-![Trends](images/monthly-trend.png)
+![Trends](https://github.com/Akwardhan/Tableau-British-Airways-Review/blob/main/Tableau-British-Airways-Review/Screenshots/3_Month.png)
 
-### 4. Final Dashboard  
-Designed an interactive dashboard combining all views.
+### 4. Insights from different aircraft
 
-![Dashboard](images/final-dashboard.png)
+![Aircraft](https://github.com/Akwardhan/Tableau-British-Airways-Review/blob/main/Tableau-British-Airways-Review/Screenshots/4_Aircraft.png)
+
+### 5. Final Dashboard
+![Dashboard](https://github.com/Akwardhan/Tableau-British-Airways-Review/blob/main/Tableau-British-Airways-Review/Screenshots/5_Dashboard.png)
 
 ## Tableau Link  
-🔗 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/yourname/viz/your-dashboard-link)
+🔗 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/anmol.kirtiwardhan/vizzes)
 
 ## Author  
 *Anmol Kirtiwardhan*  

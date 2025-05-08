@@ -1,7 +1,7 @@
 # Tableau Dashboard – British Airways Review
 
 ## Overview  
-This project presents an interactive Tableau dashboard analyzing customer reviews for British Airways. The dashboard uncovers patterns in passenger satisfaction based on traveller type, seat class, trip category, and aircraft model—enabling a clear view of sentiment trends across multiple dimensions.
+This project presents an interactive Tableau dashboard analyzing customer reviews for British Airways. The dashboard uncovers patterns in passenger satisfaction based on traveller type, seat type, trip category, and aircraft model, enabling a clear view of sentiment trends across multiple dimensions.
 
 ## Tool  
 - Tableau Public
@@ -17,7 +17,7 @@ The dataset includes customer review details such as overall rating, traveller t
 ## Key Steps  
 
 ### 1. Map Visualization  
-Mapped reviewer nationalities to visualize the geographic distribution of feedback.
+Visualized the geographic distribution of reviewer nationalities.
 
 ![Map View](https://github.com/Akwardhan/Tableau-British-Airways-Review/blob/main/Tableau-British-Airways-Review/Screenshots/1_Map.png)
 

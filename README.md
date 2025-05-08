@@ -46,5 +46,5 @@ Integrated all views into a unified, interactive dashboard.
 
 ## Author  
 *Anmol Kirtiwardhan*  
-• [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+• [LinkedIn](https://www.linkedin.com/in/akwardhan/)  
 • [Portfolio](https://your-portfolio.com)
